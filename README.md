@@ -6,4 +6,4 @@ This repository serves as a centralized platform for sharing, organizing, and ac
 * _Assignments:_ Comprehensive collection of assigments from class along with the solutions for future referal and sharing.
 * _Class Codes_: Well-structured and documented source codes from lab sessions and classroom teachings, fostering practical understanding.
 
-_This repository is a step toward creating a modern academic ecosystem, enabling students and faculty to engage with course content effectively and focus on mastering engineering concepts._****
+**_This repository is a step toward creating a modern academic ecosystem, enabling students and faculty to engage with course content effectively and focus on mastering engineering concepts._**
